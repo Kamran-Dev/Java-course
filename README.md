@@ -1,4 +1,4 @@
-Java Programming Masterclass for Software Developers - Tim Buchalka
+Java Programming Masterclass for Software Developers
 Udemy Java Course: https://www.udemy.com/share/101WdqB0YaclZXQn4=/
 Section 3: First Steps
 
