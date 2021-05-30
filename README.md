@@ -1,7 +1,10 @@
 
+
 ## Udemy Java Course: Java Programming Masterclass for Software Developers 
 
-## Link: https://www.udemy.com/share/101WdqB0YaclZXQn4=/ 
+## Link: https://www.udemy.com/share/101WdqB0YaclZXQn4=/
+
+## Content: 
 
 Section 1: Course Introduction
 
